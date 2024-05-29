@@ -39,9 +39,8 @@ The habit tracker app is a web application that helps users track their daily ha
   <img src="https://github.com/Meshva30/habit_tracker_app/assets/136339359/ef5b0880-1985-45d5-a4a0-61630e9bf298" height=500px> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
-
-
-
+<div align="center">
+<video src="https://github.com/Meshva30/habit_tracker_app/assets/136339359/369953df-1a0a-4b73-bcd6-210e23b186b3"height=500px> &nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 
 
